@@ -37,7 +37,7 @@ terraform/
 └── images/
     ├── terraform-validate.png
     ├── terraform-plan.png
-    └── azure-resource-group.png
+
 ```
 
 ---
