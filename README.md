@@ -1,31 +1,24 @@
 # Terraform Azure Resource Group
 
-A beginner Terraform project that creates an Azure Resource Group.
+A beginner-friendly Terraform project that provisions an Azure Resource Group on Microsoft Azure.
 
 ## Prerequisites
 
 - Azure Subscription
 - Terraform Installed
-- Azure CLI
+- Azure CLI Installed
 
-## Files
+## Project Structure
 
 - provider.tf
 - variables.tf
 - main.tf
 - output.tf
 
-## Commands
+## Terraform Workflow
 
+```bash
 terraform init
 terraform validate
 terraform plan
 terraform apply
-
-## Resources Created
-
-- Azure Resource Group
-
-## Learning Objective
-
-Understand Terraform providers, variables, resources and outputs.
